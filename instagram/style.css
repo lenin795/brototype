@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+h1,p{
+    color: azure;
+    text-align: center;
+}
+.main{
+
+    border-color:whitesmoke ;
+    border-style: solid;
+    border-width: 1px;
+}
+.input{
+    background-color: black;
+    color: gray;
+}
